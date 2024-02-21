@@ -1,0 +1,14 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    padding: 16px;
+    margin: 16px;
+    width: 200px;
+    float: left;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 25%;
+    margin-bottom: 8px;
+}
